@@ -1,3 +1,6 @@
 [submodule "road-detection"]
 	path = road-detection
 	url = git@github.com:aiegoo/road_detection
+[submodule "road-custom"]
+	path = road-custom
+	url = git@github.com:blackcoke/proj_road_detection-
