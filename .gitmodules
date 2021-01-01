@@ -4,3 +4,6 @@
 [submodule "road-custom"]
 	path = road-custom
 	url = git@github.com:blackcoke/proj_road_detection-
+[submodule "opencv-basic"]
+	path = opencv-basic
+	url = git@github.com:blackcoke/image_processing_basic
